@@ -8,7 +8,7 @@
 
 An open-source kit for agent development, integrated the powerful capabilities of Volcengine.
 
-For more details, see our [documents](https://volcengine.github.io/veadk-python/).
+For more details, see our [documents](https://agentkit.gitbook.io/docs/veadk-go).
 
 ## Installation
 
