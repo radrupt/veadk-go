@@ -17,7 +17,7 @@ Before you start, make sure you have the following installed:
 
 
 ```bash
-go get github.com/volcengine/veadk-go
+go get github.com/radrupt/veadk-go
 ```
 
 ## Configuration
@@ -46,8 +46,8 @@ import (
 	"log"
 	"os"
 
-	_ "github.com/volcengine/veadk-go/agent"
-	veagent "github.com/volcengine/veadk-go/agent/llmagent"
+	_ "github.com/radrupt/veadk-go/agent"
+	veagent "github.com/radrupt/veadk-go/agent/llmagent"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/cmd/launcher"
 	"google.golang.org/adk/cmd/launcher/full"

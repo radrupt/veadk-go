@@ -1,4 +1,4 @@
-module github.com/volcengine/veadk-go
+module github.com/radrupt/veadk-go
 
 go 1.24.4
 
